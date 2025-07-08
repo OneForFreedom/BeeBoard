@@ -3,10 +3,10 @@ title: "BeeBoard"
 author: "One For Freedom"
 description: "A black and yellow themed keyboard with magnetic parts to connect with eachother!"
 created_at: "08/07/25 DD/MM/YY"
-Total Time Used to create this: "p"
+Total Time Used to create this: "xHours xMins"
 ---
 
-Bzzz! Bzz! Buzzy bees flying your way!
+# Bzzz! Bzz! Buzzy bees flying your way!
 
 08/07/25
 Entry 1:
