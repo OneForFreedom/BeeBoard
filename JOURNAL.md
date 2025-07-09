@@ -13,7 +13,7 @@ Entry 1:
 
 OOOOH new project! I'm gonna start with scematics, but it's late already. I'll get to it tomorrow. Parts research was a pain, restarted 10 times when I realised shipping was too much.
 
-TIME SPENT: 7H 30 MIN
+TIME SPENT: 7H 9 MIN
 
 09/07/25
 Entry 2:
@@ -26,6 +26,8 @@ Okay! So here's what I did today! I researched the parts, completed the schemati
 All images will be found in /Images and also in Readme.md 
 
 Boms can be found in BOM.csv or Readme.md
+
+TIME TAKEN 10 H
 
 Thanks for being in this little adventure with me. 
 One For Freedom, Buzzing away!
