@@ -3,7 +3,7 @@ title: "BeeBoard"
 author: "One For Freedom"
 description: "A black and yellow themed keyboard with magnetic parts to connect with eachother!"
 created_at: "08/07/25 DD/MM/YY"
-Total Time Used to create this: "xHours xMins"
+Total Time Used to create this: "17 Hours 9 Mins"
 ---
 
 # Bzzz! Bzz! Buzzy bees flying your way!
@@ -11,9 +11,9 @@ Total Time Used to create this: "xHours xMins"
 08/07/25
 Entry 1:
 
-OOOOH new project! I'm gonna start with scematics, but it's late already. I'll get to it tomorrow.
+OOOOH new project! I'm gonna start with scematics, but it's late already. I'll get to it tomorrow. Parts research was a pain, restarted 10 times when I realised shipping was too much.
 
-TIME SPENT: 30 MIN
+TIME SPENT: 7H 30 MIN
 
 09/07/25
 Entry 2:
