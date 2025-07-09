@@ -10,3 +10,10 @@ Total Time Used to create this: "xHours xMins"
 
 08/07/25
 Entry 1:
+
+OOOOH new project! I'm gonna start with scematics, but it's late already. I'll get to it tomorrow.
+
+TIME SPENT: 30 MIN
+
+09/07/25
+Entry 2:
