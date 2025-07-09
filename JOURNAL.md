@@ -17,3 +17,16 @@ TIME SPENT: 30 MIN
 
 09/07/25
 Entry 2:
+
+I'm tired.
+PROJECT COMPLETE!!
+
+Okay! So here's what I did today! I researched the parts, completed the schematic, pcb and cad, and coded the firmware. This took almost the entire day but I'm proud of it
+
+All images will be found in /Images and also in Readme.md 
+
+Boms can be found in BOM.csv or Readme.md
+
+Thanks for being in this little adventure with me. 
+One For Freedom, Buzzing away!
+Until parts arrive :P
