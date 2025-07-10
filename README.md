@@ -7,8 +7,8 @@ It has magnets incase you want to use them as one.
 ## EYECANDY!
 
 ![](/Images/BeeBoard.png)
-![](/Images/BeeBoard NBG.png)
-![](/Images/BeeBoard PCB.png)
-![](/Images/BeeBoard Schematic.png)
+![](/Images/BeeBoard20%NBG.png)
+![](/Images/BeeBoard20%PCB.png)
+![](/Images/BeeBoard20%Schematic.png)
 
 ## BOM
