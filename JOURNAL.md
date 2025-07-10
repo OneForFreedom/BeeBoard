@@ -23,7 +23,14 @@ PROJECT COMPLETE!!
 
 Okay! So here's what I did today! I researched the parts, completed the schematic, pcb and cad, and coded the firmware. This took almost the entire day but I'm proud of it
 
-All images will be found in /Images and also in Readme.md 
+All images will be found HERE!
+
+
+![](/Images/BeeBoard.png)
+![](/Images/BeeBoard%20NBG.png)
+![](/Images/BeeBoard%20PCB.png)
+![](/Images/BeeBoard%20Schematic.png)
+
 
 Boms can be found in BOM.csv or Readme.md
 
