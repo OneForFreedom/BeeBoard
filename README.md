@@ -11,6 +11,9 @@ It has magnets incase you want to use them as one.
 ![](/Images/BeeBoard%20PCB.png)
 ![](/Images/BeeBoard%20Schematic.png)
 
+# Firmware
+
+Firmware and it's readme can be found ![here](/Firmware)
 
 ## BeeBoard BOM
 
