@@ -13,7 +13,7 @@ It has magnets incase you want to use them as one.
 
 # Firmware
 
-Firmware and it's readme can be found ![here](/Firmware)
+Firmware and it's readme can be found [here](/Firmware)
 
 ## BeeBoard BOM
 
