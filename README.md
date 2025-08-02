@@ -24,7 +24,7 @@ the split keeb is wireless so it uses bluetooth to connect to each half and to y
 | Switches           | 21.39     | 29.08     | [Link](https://www.aliexpress.com/item/1005008760267631.html)                            |
 | Switch Film        | 2.00      | 2.72      | [Link](https://www.aliexpress.com/item/1005006584258877.html)                            |
 | Diodes             | 1.40      | 1.90      | [Link](https://www.aliexpress.com/item/1005006245109375.html)                            |
-| Stabilizer         | 9.29      | 12.63     | [Link](https://www.aliexpress.com/item/1005007636002981.html)                            |
+| Stabilizers         | 9.29      | 12.63     | [Link](https://www.aliexpress.com/item/32719735398.html)                            |
 | O Rings            | 0.57      | 0.78      | [Link](https://www.aliexpress.com/item/32965363255.html)                                 |
 | Super Glue         | 2.12      | 2.88      | [Link](https://www.aliexpress.com/item/1005008583356354.html)                            |
 | Magnets            | 5.15      | 7.00      | [Link](https://www.aliexpress.com/item/1005008882082220.html)                            |
