@@ -13,7 +13,8 @@ It has magnets incase you want to use them as one.
 
 # Firmware
 
-Firmware and it's readme can be found [here](/Firmware)
+This keyboard uses kmk firmware to work. both keyboards will work together to provide an input. This code is using a key matrix system for both halves. Left side is Master and Right side is Slave. Code R.py flashes to the right side and Code L.py flashes to the left.
+the split keeb is wireless so it uses bluetooth to connect to each half and to your computer. The codes can be found here [here](/Firmware)
 
 ## BeeBoard BOM
 
