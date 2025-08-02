@@ -21,7 +21,7 @@ the split keeb is wireless so it uses bluetooth to connect to each half and to y
 | Name               | Price (£) | Price ($) | Link                                                                                     |
 |--------------------|-----------|-----------|------------------------------------------------------------------------------------------|
 | Nano Chip          | 2.25      | 3.06      | [Link](https://www.aliexpress.com/item/1005007040333351.html)                            |
-| Switches           | 21.39     | 29.08     | [Link](https://www.aliexpress.com/item/1005006425450443.html)                            |
+| Switches           | 21.39     | 29.08     | [Link](https://www.aliexpress.com/item/1005008760267631.html)                            |
 | Switch Film        | 2.00      | 2.72      | [Link](https://www.aliexpress.com/item/1005006584258877.html)                            |
 | Diodes             | 1.40      | 1.90      | [Link](https://www.aliexpress.com/item/1005006245109375.html)                            |
 | Stabilizer         | 9.29      | 12.63     | [Link](https://www.aliexpress.com/item/1005007636002981.html)                            |
